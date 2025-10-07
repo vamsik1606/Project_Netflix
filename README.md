@@ -1,3 +1,4 @@
+ONGOING:
 this project is to exibhit my understanding of working with multiple datasets and create the following ideas,
 
 Goal: Suggest movies to users based on viewing history and reviews.
