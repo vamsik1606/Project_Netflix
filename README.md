@@ -21,7 +21,7 @@ How search behavior leads to watching a movie
 
 C. Predictive Modeling
 
-Goal: Predict something measurable — e.g.:
+Goal: Predict something measurable, e.g.:
 
 Will a user like a movie? (binary classification)
 
